@@ -1,0 +1,14 @@
+name: datasci-scikit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.5
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pandas
+  - notebook
+  - missingno
+prefix: /Users/neha/opt/miniconda3/envs/datasci-scikit
+
